@@ -1,4 +1,4 @@
-# percentual
+# Percentual
 Programa na linguagem Java onde calcula o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 
 Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
